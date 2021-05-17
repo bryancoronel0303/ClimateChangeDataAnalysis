@@ -1,1 +1,1 @@
-# ClimateChangeDataAnlysis
+# ClimateChangeDataAnalysis
